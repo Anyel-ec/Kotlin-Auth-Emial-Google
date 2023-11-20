@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613448044014",
+    "project_id": "anyel-ec-1d39a",
+    "storage_bucket": "anyel-ec-1d39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613448044014:android:32136b40776721f987d2ff",
+        "android_client_info": {
+          "package_name": "com.anyel.anyelec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNM_wMUYyxMja8NT1olt6X9FRNcknuuTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
